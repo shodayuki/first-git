@@ -8,6 +8,5 @@
 ## 使用技術
  - HTML
  - CSS
- - jQUery
+ - jQuery
  - JavaScript
- - webpack
